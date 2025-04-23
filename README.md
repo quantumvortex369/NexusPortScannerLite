@@ -18,7 +18,7 @@ Características
 -Valores por defecto para lanzarlo sin complicaciones
 
 
-📦 Requisitos
+Requisitos
 -Python 3.7 o superior
 
 -Bibliotecas: colorama, rich
